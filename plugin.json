@@ -1,0 +1,10 @@
+{
+  "apiVersion": 1,
+  "id": "imcp",
+  "name": "iMCP",
+  "description": "Readable approval presentations for iMCP MCP tools.",
+  "version": "1.0.0",
+  "normalizationVersion": 2,
+  "entry": "plugin.mjs",
+  "sha256": "1238f3400aa6e1632e6338b5a67f56087dabd22821697e0b58fa110a4df04f23"
+}
